@@ -4,6 +4,8 @@
 
 ![](docs/2.png)
 
+* under development
+
 ## Project Description
 This project aims to build a ROS library that supports an earlier version of Dobot. The ROS library will contain packages that enable low-level controls of Dobot such
 as reading and controlling of joint angles, forward kinematics, inverse kinematics,
