@@ -38,6 +38,6 @@ ret: 1.0
 ```
 to rotate the first joint by 30 degrees. 
 
-A video walk throught can be found [HERE](https://youtu.be/6ZQ8-gSWN50)
+A video walk through can be found [HERE](https://youtu.be/6ZQ8-gSWN50)
 
 <img src="docs/4.png" width="400">
